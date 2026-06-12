@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/Michael Samir/adamalston/master/profile.gif)](https://github.com/MekyySamir)
+[![](https://raw.githubusercontent.com/aster/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
 # Michael Samir
 
