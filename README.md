@@ -1,5 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/MekyySamir)
-
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_white_.png)
 # Michael Samir
 
 ### Socials
